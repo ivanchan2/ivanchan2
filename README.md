@@ -23,6 +23,10 @@
 - **[CipherKeep](https://github.com/ivanchan2/cipher-keep)**：純前端、零後端的離線密碼管理 PWA。資料以 PBKDF2 + AES-GCM 在瀏覽器端加密，支援 WebAuthn PRF 生物辨識解鎖，可安裝到手機主畫面並離線使用。
 - **[dungeons](https://github.com/ivanchan2/dungeons)**：Unity 遊戲專案。
 
+### ⭐ 推薦專案
+
+- **[mattpocock/skills](https://github.com/mattpocock/skills)**：Matt Pocock 整理的 AI Agent skills，小巧、可組合，適用於 Claude Code、Codex、GitHub Copilot 等工具，主張用 AI 做紮實的工程開發，而不是 vibe coding。
+
 ### 🕹️ 參與過的遊戲
 
 - **《星辰 Online》**（PC MMO）：以 C++ 開發 Server 功能；排查 AI 與 A* 尋路的效能瓶頸，讓 Server 效能提升 50% 以上；用 Gamebryo 開發場景與特效編輯器
